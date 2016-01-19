@@ -1,0 +1,28 @@
+name: Onthebackofatiger
+favicon: null
+layout_spectrum: 0.10881262179464102
+typography_spectrum: 0.3792302333749831
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6395435568410903
+  lightness: 0.4498631365131587
+  saturation: 0.4631494584027678
+  rhythmicContrast: 0.9870116827078164
+purpose: []
